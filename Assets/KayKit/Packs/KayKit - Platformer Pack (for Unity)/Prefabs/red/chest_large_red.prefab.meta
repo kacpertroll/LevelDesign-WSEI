@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03560b7131afa4649af304da9574c7a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/chest_large_red.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f356e9710d8cfe84f998810c322fd52e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/chain_link_end_bottom.prefab
+  uploadId: 814500

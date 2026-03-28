@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d866cf018330fe045943cdaf1ba4ebeb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/diamond_green.prefab
+  uploadId: 814500

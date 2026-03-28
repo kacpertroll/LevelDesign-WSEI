@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5893e6133c24972489c76e01827b49be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/signage_finish_wide.prefab
+  uploadId: 814500

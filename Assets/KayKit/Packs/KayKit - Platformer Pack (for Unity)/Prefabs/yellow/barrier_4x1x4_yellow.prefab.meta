@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e8fc474c33dc9a408e80fcfb5c6af9b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/barrier_4x1x4_yellow.prefab
+  uploadId: 814500

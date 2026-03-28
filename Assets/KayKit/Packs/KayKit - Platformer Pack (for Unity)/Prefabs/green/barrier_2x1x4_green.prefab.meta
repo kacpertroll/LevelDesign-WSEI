@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62a9e4df6e9d1164b8b9b30b64a22513
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/barrier_2x1x4_green.prefab
+  uploadId: 814500

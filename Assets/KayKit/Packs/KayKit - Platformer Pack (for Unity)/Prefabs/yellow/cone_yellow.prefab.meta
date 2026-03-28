@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e67469e2c9b3e5247af7f0c2039b0f76
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/cone_yellow.prefab
+  uploadId: 814500

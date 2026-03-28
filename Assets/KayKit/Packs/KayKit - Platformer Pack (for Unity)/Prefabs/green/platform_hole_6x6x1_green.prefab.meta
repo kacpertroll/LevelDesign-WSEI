@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2201b676df060444882ed642669473e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/platform_hole_6x6x1_green.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b8937d87a791814a85599408f2d687e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/signage_arrow_wall_yellow.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c03671a5003bf7a4f8875cd97866f161
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/spring_pad_yellow.prefab
+  uploadId: 814500

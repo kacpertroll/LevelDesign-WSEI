@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16cda3178c2b7194582d1f045df12f92
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/spikeblock_omni_blue.prefab
+  uploadId: 814500

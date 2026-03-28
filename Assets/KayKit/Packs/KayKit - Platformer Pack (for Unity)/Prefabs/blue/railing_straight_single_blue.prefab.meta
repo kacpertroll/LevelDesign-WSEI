@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec864069a353b6547b672b2a613826d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/railing_straight_single_blue.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9d23ce8d95575f4880e84ad47c20ac4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/ball_red.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4432ada34d6a594b8a174ea220afc73
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/pipe_straight_B_green.prefab
+  uploadId: 814500

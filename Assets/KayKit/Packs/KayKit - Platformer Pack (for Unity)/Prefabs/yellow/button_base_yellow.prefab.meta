@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b402305bf43d8b2469e669b58f1c8317
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/button_base_yellow.prefab
+  uploadId: 814500

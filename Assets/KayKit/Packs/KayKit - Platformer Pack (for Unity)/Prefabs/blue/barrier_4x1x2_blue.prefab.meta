@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e0915c79af8f2143b4e85e7e7132b2d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/barrier_4x1x2_blue.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f4839ad292a4df4383b9a6640673161
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/pipe_end_yellow.prefab
+  uploadId: 814500

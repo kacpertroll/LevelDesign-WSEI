@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8a7ebf3afb3d9543b3d7b79f9f56393
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/spikeblock_down_red.prefab
+  uploadId: 814500

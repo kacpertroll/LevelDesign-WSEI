@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01a6190065cfd554d876de29f3e58ecc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/strut_vertical.prefab
+  uploadId: 814500

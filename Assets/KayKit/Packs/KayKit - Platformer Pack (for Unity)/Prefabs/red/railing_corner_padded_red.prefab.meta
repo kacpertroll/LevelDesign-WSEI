@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a06aed1aab98363438c6cf7ae68b7ab2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/railing_corner_padded_red.prefab
+  uploadId: 814500

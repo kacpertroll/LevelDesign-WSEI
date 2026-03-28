@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 582bdfbbbc5a3dc4b8c882fc2cfb44c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/spikeblock_down_blue.prefab
+  uploadId: 814500

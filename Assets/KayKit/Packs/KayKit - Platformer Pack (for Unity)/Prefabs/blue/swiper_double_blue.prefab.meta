@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3bdd252c7a7d114da0b64ff42d2d044
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/swiper_double_blue.prefab
+  uploadId: 814500

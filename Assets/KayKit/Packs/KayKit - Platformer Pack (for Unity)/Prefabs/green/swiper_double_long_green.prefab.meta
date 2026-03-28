@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a84c3364e5a8da944a627f6b3675a51e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/swiper_double_long_green.prefab
+  uploadId: 814500

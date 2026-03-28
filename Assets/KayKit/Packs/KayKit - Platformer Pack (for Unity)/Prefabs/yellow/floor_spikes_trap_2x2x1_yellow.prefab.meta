@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddfecc321168a5b46a989cd05332883e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/floor_spikes_trap_2x2x1_yellow.prefab
+  uploadId: 814500

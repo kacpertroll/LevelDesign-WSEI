@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bba0d2ff1adfe814ebc35aeb9dbfaea3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/swiper_quad_green.prefab
+  uploadId: 814500

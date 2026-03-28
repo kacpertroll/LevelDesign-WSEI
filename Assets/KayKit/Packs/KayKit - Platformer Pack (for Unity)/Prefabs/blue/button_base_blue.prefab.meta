@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93de09933e4094d4a9bd0748de9dd8de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/button_base_blue.prefab
+  uploadId: 814500

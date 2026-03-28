@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17ebed57e215e6e4bbdfd751cdb1f583
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/railing_straight_double_yellow.prefab
+  uploadId: 814500

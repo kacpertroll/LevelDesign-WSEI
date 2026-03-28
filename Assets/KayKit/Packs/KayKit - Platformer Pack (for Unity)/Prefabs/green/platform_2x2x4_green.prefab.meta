@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4db9b844dec60a4b84608919736df0c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/platform_2x2x4_green.prefab
+  uploadId: 814500

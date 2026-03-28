@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd3ce6eb181eb294aa24a8935ad351fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/platform_4x4x1_blue.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6cfb6a6b4c2658445b3c6a393e3a8ddc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/conveyor_2x8x1_red.prefab
+  uploadId: 814500

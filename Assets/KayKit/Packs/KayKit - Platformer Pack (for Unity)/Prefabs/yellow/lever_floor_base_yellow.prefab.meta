@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c322a4b413074545ad07448a4307cfa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/lever_floor_base_yellow.prefab
+  uploadId: 814500

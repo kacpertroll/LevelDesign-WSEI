@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1c24000ce220464eb92a5c83b6d6230
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/spikeblock_double_vertical_red.prefab
+  uploadId: 814500

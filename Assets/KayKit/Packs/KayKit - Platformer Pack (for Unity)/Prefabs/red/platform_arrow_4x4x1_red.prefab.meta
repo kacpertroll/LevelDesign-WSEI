@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f36988e3a9a67b94499b5331cd61abe1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/platform_arrow_4x4x1_red.prefab
+  uploadId: 814500

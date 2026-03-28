@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67cc8a7ab4ebb00458cb6c0da5c7741a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/hammer_large_spikes_green.prefab
+  uploadId: 814500

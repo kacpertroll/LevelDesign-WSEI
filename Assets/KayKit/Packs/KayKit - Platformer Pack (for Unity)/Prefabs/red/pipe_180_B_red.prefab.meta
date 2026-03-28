@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db771b445e031ff418263e444ddca66b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/pipe_180_B_red.prefab
+  uploadId: 814500

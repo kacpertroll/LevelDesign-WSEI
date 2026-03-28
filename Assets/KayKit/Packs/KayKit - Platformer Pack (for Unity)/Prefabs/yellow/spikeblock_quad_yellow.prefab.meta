@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c506a129c7a2484ca9cf01da41e3eb9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/spikeblock_quad_yellow.prefab
+  uploadId: 814500

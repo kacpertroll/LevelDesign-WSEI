@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9789f90b61455e44bf5e0fd7a192a63
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/chest_large_yellow.prefab
+  uploadId: 814500

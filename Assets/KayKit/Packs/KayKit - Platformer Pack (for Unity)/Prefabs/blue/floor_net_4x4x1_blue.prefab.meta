@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4dd1e994143b0b4fb89460fbb5f8ed8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/floor_net_4x4x1_blue.prefab
+  uploadId: 814500

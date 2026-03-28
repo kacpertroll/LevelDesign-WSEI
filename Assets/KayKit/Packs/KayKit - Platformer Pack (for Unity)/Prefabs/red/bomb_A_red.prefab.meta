@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5a1e16f3056f0749b9516ef6b261536
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/bomb_A_red.prefab
+  uploadId: 814500

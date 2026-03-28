@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79577a33932354f4a9b2475fd333f2ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/barrier_1x1x4_red.prefab
+  uploadId: 814500

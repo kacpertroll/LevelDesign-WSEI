@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d9254dd1f28a114fa1ae542857ebffd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/platform_slope_6x4x4_red.prefab
+  uploadId: 814500

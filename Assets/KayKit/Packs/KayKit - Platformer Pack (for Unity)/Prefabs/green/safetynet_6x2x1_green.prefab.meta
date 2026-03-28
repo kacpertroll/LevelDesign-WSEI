@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 827e3b71576f7d1479f00dfa0f2dbc3e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/safetynet_6x2x1_green.prefab
+  uploadId: 814500

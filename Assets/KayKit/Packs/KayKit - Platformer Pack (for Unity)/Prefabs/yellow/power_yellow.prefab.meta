@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ece166d1f72bafd4cbe3fa748bd92803
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/power_yellow.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3c774a0c8e32484bb3b8fff2f2b3496
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/sawblade.prefab
+  uploadId: 814500

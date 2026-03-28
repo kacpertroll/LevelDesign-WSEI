@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8695ecdeb22841344ae0a10c2c486e1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/platform_4x2x2_red.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 887a6c3ec198e1d46ac38f7471e0d615
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/cannon_bullet.prefab
+  uploadId: 814500

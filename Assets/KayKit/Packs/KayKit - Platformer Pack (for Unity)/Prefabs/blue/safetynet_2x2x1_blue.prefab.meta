@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19baf96af79d395458a69495b1d15c08
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/safetynet_2x2x1_blue.prefab
+  uploadId: 814500

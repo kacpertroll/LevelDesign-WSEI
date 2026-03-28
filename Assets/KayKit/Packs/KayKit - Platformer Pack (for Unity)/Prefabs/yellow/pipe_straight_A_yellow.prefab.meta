@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a03005ec5c79b44f9fe984ace74d7a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/pipe_straight_A_yellow.prefab
+  uploadId: 814500

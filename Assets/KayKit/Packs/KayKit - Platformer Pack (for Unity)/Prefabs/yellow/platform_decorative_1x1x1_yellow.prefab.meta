@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8736a2513ed48dd44b94a6027b5bdd96
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/platform_decorative_1x1x1_yellow.prefab
+  uploadId: 814500

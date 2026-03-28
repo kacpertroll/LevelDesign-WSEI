@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56e4c72fc8076ee4bb1f1144abf8aa94
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/saw_trap_double_green.prefab
+  uploadId: 814500

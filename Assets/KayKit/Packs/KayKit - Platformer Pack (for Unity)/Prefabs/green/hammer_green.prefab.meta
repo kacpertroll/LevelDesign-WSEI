@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: accd9c1906a1bcb49bb9677ea367fe7d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/hammer_green.prefab
+  uploadId: 814500

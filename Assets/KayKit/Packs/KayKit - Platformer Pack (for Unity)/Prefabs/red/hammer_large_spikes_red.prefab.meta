@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83d11c0d8034323448882de00ceb4f92
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/hammer_large_spikes_red.prefab
+  uploadId: 814500

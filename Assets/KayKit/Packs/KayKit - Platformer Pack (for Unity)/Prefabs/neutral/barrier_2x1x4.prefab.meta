@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad7b673339c89e040b11b48b3e4f206a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/barrier_2x1x4.prefab
+  uploadId: 814500

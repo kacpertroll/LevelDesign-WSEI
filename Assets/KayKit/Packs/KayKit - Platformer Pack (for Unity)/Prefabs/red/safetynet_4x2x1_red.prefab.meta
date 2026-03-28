@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f810b266e7f606342bb3a48c07a60386
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/safetynet_4x2x1_red.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edaafe83f7bf8d64a973f2e75e11cfaa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/railing_corner_double_blue.prefab
+  uploadId: 814500

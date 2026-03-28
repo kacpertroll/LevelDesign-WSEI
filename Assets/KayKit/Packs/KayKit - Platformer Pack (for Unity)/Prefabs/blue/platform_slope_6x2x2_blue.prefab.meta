@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7a1214574b07714aa3804aed4951db2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/platform_slope_6x2x2_blue.prefab
+  uploadId: 814500

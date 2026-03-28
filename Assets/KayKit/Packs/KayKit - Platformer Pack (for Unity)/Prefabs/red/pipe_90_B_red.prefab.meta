@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 088c042df48e6834fb498d7e70e31ab3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/pipe_90_B_red.prefab
+  uploadId: 814500

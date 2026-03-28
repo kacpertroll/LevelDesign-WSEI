@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ac6339523ad46c49918e4c15013349e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/button_base_red.prefab
+  uploadId: 814500

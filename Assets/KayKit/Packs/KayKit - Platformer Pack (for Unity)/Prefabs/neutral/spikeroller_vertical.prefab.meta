@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bde77273c0c10034b93fd3959108721a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/spikeroller_vertical.prefab
+  uploadId: 814500

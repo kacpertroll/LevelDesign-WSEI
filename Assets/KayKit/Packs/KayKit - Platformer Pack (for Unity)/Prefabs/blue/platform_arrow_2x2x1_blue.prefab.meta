@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f28b99ad8f4a4d74888543884685a2b6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/platform_arrow_2x2x1_blue.prefab
+  uploadId: 814500

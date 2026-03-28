@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cfd4f1e957914d48a19894ceba1a62d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/spikeblock_right_blue.prefab
+  uploadId: 814500

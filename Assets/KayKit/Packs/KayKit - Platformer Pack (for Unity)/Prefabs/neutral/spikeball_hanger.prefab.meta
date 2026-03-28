@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e308fa7e09159048b208bce5064d211
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/spikeball_hanger.prefab
+  uploadId: 814500

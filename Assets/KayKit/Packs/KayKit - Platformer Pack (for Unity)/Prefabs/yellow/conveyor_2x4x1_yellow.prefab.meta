@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 445b613c34d1e304694a16041bb0484a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/conveyor_2x4x1_yellow.prefab
+  uploadId: 814500

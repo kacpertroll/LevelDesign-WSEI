@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d298a3b19fa610458204f7593f8a8fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/signage_arrow_stand_blue.prefab
+  uploadId: 814500

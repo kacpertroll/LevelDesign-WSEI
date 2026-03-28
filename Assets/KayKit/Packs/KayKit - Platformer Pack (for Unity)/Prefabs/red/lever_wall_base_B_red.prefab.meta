@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17c229bc2c729264899fd7c5e90fd9c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/lever_wall_base_B_red.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d419e40b222bb944e8d981ecdfbc7165
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/bracing_small_yellow.prefab
+  uploadId: 814500

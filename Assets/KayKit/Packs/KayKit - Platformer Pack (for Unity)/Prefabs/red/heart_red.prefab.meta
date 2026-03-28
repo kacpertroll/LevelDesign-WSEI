@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fc1a796f78b5f741939d76d3c33ad3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/heart_red.prefab
+  uploadId: 814500

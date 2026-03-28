@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b722466436b5c5459e58c06b12e1b38
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/bomb_B_green.prefab
+  uploadId: 814500

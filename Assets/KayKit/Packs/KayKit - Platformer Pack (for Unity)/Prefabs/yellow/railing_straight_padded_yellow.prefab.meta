@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6909d264f915014eb9d6b2e0be8e5cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/railing_straight_padded_yellow.prefab
+  uploadId: 814500

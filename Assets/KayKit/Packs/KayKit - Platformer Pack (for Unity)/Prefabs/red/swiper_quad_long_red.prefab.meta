@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47398d99f373d0e4b81509c0ac4f714b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/swiper_quad_long_red.prefab
+  uploadId: 814500

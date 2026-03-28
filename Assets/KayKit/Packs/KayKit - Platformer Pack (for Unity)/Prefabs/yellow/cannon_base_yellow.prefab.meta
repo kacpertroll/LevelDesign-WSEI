@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cfd0272d9ce3a5d47a5f1c1a0b094c19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/cannon_base_yellow.prefab
+  uploadId: 814500

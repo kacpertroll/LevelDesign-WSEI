@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2642941187eca5043995fdd267b6ef43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/spikeblock_omni_red.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8543197c7d1c654e8f85740b0f4c40e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/red/star_red.prefab
+  uploadId: 814500

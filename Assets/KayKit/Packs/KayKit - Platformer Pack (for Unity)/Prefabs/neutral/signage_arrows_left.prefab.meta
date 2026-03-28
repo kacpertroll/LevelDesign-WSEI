@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1340fb2ab3331e4ea099483b4227903
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/signage_arrows_left.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fadcb9d165ccccc48aa46e7f5510051b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/arch_tall_yellow.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 941b52c8e0deba246b18307c5b35b4cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/floor_spikes_4x4x1.prefab
+  uploadId: 814500

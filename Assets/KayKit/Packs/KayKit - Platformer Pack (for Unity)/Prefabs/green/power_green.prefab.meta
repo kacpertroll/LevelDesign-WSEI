@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b1c8d1734f7a5e4d88480575536cfa0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/power_green.prefab
+  uploadId: 814500

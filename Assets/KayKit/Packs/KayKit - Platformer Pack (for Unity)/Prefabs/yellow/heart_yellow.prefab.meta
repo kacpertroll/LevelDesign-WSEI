@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a811d8d7c0e0b734cac371e8c6d0372e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/heart_yellow.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 414cc40a2b980474bb11b8c66604c6cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/hoop_angled_blue.prefab
+  uploadId: 814500

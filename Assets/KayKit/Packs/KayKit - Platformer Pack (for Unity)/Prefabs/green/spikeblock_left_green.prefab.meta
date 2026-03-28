@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a347d620e8002ff4c976102aeede2d71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/spikeblock_left_green.prefab
+  uploadId: 814500

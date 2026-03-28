@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0fb0a2241ca6294c98dc153e3d12fcd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/chest_green.prefab
+  uploadId: 814500

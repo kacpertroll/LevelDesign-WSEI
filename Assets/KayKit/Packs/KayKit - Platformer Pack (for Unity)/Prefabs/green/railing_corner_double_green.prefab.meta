@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ceede123bd41dfc4abbb7da0e044a3ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/railing_corner_double_green.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 260de34614c751d439e84429ccae120e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/floor_wood_2x2.prefab
+  uploadId: 814500

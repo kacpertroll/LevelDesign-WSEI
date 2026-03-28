@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f135cc042a042b40a5d3e91c592eb75
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/chain_full.prefab
+  uploadId: 814500

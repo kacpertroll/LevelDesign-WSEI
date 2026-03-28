@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 078ee77ca97f89e4d87fe620012417a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/green/lever_wall_base_A_green.prefab
+  uploadId: 814500

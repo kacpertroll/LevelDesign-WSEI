@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86c7e4937aeb98e44a9bded052c6563d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/neutral/pillar_2x2x4.prefab
+  uploadId: 814500

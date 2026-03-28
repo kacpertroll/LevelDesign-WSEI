@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eed355aa58dd8af47a969bb231abe305
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/bomb_B_blue.prefab
+  uploadId: 814500

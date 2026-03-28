@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26e2cf98282a9054a88b9460d9bcf05d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/blue/pipe_180_A_blue.prefab
+  uploadId: 814500

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ab0a1ec5ea83cb4cb3902b37f968164
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313229
+  packageName: KayKit - Platformer Pack (for Unity)
+  packageVersion: 1.0.1
+  assetPath: Assets/KayKit/Packs/KayKit - Platformer Pack (for Unity)/Prefabs/yellow/platform_slope_2x4x4_yellow.prefab
+  uploadId: 814500

@@ -79,7 +79,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void HandleCrouch()
     {
-        if (Input.GetKeyDown(KeyCode.C) && isGrounded)
+        if (Input.GetKeyDown(KeyCode.C))
         {
             isCrouching = true;
 

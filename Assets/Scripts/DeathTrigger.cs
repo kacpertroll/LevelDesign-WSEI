@@ -7,7 +7,7 @@ public class DeathTrigger : MonoBehaviour
     {
         if (hit.gameObject.CompareTag("Death"))
         {
-            Debug.Log("siema");
+            Debug.Log("You died - Level restart");
             SceneManager.LoadScene("LevelDesign_Task1");
         }
     }

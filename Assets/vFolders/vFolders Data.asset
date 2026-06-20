@@ -16,12 +16,17 @@ MonoBehaviour:
     keys:
     - 486ee7fb3f75ab24e8f1741356475f41
     - 1aeb3bf9643b9e64d874b023d91fef4e
+    - de52800a5cd509f419111e8ebdfb223f
     values:
     - iconNameOrGuid: Texture Icon
       colorIndex: 0
       isIconRecursive: 0
       isColorRecursive: 0
     - iconNameOrGuid: Material Icon
+      colorIndex: 0
+      isIconRecursive: 0
+      isColorRecursive: 0
+    - iconNameOrGuid: PrefabModel Icon
       colorIndex: 0
       isIconRecursive: 0
       isColorRecursive: 0

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 434404365042336959}
   - component: {fileID: 1153621304636421993}
   - component: {fileID: 6383086609901027170}
+  - component: {fileID: 5485041757759089031}
   m_Layer: 6
   m_Name: DoorHingeWoodBig
   m_TagString: Untagged
@@ -68,11 +69,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isDoor: 1
-  isLocked: 0
-  isOpen: 0
-  openRotation: {x: 0, y: 90, z: 0}
-  closeRotation: {x: 0, y: -90, z: 0}
+  promptText: '[E] Interakcja'
+  requiredItem: {fileID: 0}
+  lockedPromptText: '[E] Wymagany klucz'
+  OnInteract:
+    m_PersistentCalls:
+      m_Calls: []
+  OnInteractFailed:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5485041757759089031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5941697924542753309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89bc352678300541ac89bcc9949a3f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  openAngle: 90
+  animationSpeed: 3
 --- !u!1 &7120700011470007202
 GameObject:
   m_ObjectHideFlags: 0

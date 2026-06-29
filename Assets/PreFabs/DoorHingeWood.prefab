@@ -9,8 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8837934798920596478}
-  - component: {fileID: 3552605419553147375}
   - component: {fileID: 3803298804697805616}
+  - component: {fileID: 3552605419553147375}
+  - component: {fileID: 2761606608796713740}
   m_Layer: 6
   m_Name: DoorHingeWood
   m_TagString: Untagged
@@ -35,23 +36,6 @@ Transform:
   - {fileID: 7021103756733357903}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3552605419553147375
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5568201547935222948}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isDoor: 1
-  isLocked: 0
-  isOpen: 0
-  openRotation: {x: 0, y: 90, z: 0}
-  closeRotation: {x: 0, y: -90, z: 0}
 --- !u!65 &3803298804697805616
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -73,6 +57,41 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.31624985, y: 3.0631523, z: 1.9335251}
   m_Center: {x: 0.034276962, y: 1.6342754, z: -0.981369}
+--- !u!114 &3552605419553147375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568201547935222948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  promptText: '[E] Interakcja'
+  requiredItem: {fileID: 0}
+  lockedPromptText: '[E] Wymagany klucz'
+  OnInteract:
+    m_PersistentCalls:
+      m_Calls: []
+  OnInteractFailed:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2761606608796713740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568201547935222948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89bc352678300541ac89bcc9949a3f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  openAngle: 90
+  animationSpeed: 3
 --- !u!1 &7937424437206974946
 GameObject:
   m_ObjectHideFlags: 0

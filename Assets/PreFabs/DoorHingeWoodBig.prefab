@@ -69,9 +69,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Interact'
   requiredItem: {fileID: 0}
-  lockedPromptText: '[E] Wymagany klucz'
+  lockedPromptText: You need a key
   OnInteract:
     m_PersistentCalls:
       m_Calls: []

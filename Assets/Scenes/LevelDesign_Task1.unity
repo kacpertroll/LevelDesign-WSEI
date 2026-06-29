@@ -81285,7 +81285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Interact'
   requiredItem: {fileID: 0}
   lockedPromptText: '[E] Wymagany klucz'
   OnInteract:
@@ -129293,6 +129293,10 @@ PrefabInstance:
       value: Collectible (10)
       objectReference: {fileID: 0}
     - target: {fileID: 6799813191220692217, guid: fbf16f48c9cec684f9b7b5f9cb7cb980, type: 3}
+      propertyPath: promptText
+      value: '[E] Pick Up'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799813191220692217, guid: fbf16f48c9cec684f9b7b5f9cb7cb980, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -168887,7 +168891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Interact'
   requiredItem: {fileID: 0}
   lockedPromptText: '[E] Wymagany klucz'
   OnInteract:
@@ -206918,6 +206922,10 @@ PrefabInstance:
     - target: {fileID: 5941697924542753309, guid: 75e787cdfd5d35d44b110d8247fe5bff, type: 3}
       propertyPath: m_Name
       value: DoorHingeWoodBig (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6383086609901027170, guid: 75e787cdfd5d35d44b110d8247fe5bff, type: 3}
+      propertyPath: lockedPromptText
+      value: They're locked
       objectReference: {fileID: 0}
     - target: {fileID: 6383086609901027170, guid: 75e787cdfd5d35d44b110d8247fe5bff, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.size
@@ -269712,7 +269720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Embrace'
   requiredItem: {fileID: 0}
   lockedPromptText: '[E] Wymagany klucz'
   OnInteract:
@@ -290705,6 +290713,10 @@ PrefabInstance:
     - target: {fileID: 6383086609901027170, guid: 75e787cdfd5d35d44b110d8247fe5bff, type: 3}
       propertyPath: closeRotation.y
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6383086609901027170, guid: 75e787cdfd5d35d44b110d8247fe5bff, type: 3}
+      propertyPath: lockedPromptText
+      value: They're locked
       objectReference: {fileID: 0}
     - target: {fileID: 6383086609901027170, guid: 75e787cdfd5d35d44b110d8247fe5bff, type: 3}
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.size
@@ -326278,9 +326290,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Ignite'
   requiredItem: {fileID: 11400000, guid: 3e3d445ab0ff1e74a880b6328d684922, type: 2}
-  lockedPromptText: '[E] Wymagany klucz'
+  lockedPromptText: You need a fire
   OnInteract:
     m_PersistentCalls:
       m_Calls:
@@ -339508,7 +339520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Pick up'
   requiredItem: {fileID: 0}
   lockedPromptText: '[E] Wymagany klucz'
   OnInteract:
@@ -341749,7 +341761,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23419ff9c639cf74da39d59caa2aaefa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  promptText: '[E] Interakcja'
+  promptText: '[E] Interact'
   requiredItem: {fileID: 0}
   lockedPromptText: '[E] Wymagany klucz'
   OnInteract:
